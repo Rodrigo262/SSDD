@@ -1,2 +1,2 @@
 # SistemasDistribuidos
-Práctica con Zeroc-Ice a
+Práctica con Zeroc-Ice
