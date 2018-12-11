@@ -5,9 +5,8 @@
 import sys
 
 import Ice
-Ice.loadSlice('factorial.ice')
+Ice.loadSlice('dowloader.ice')
 import Example
-
 
 class Client(Ice.Application):
 
